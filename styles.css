@@ -3,9 +3,19 @@
 
 
 * {
-  margin: 0;
-  padding: 10px;
+  margin:   0;
+  padding:  0;
+  overflow-y: hidden;
 }
+
+ /* main{
+ width: 100vw;
+ height: 100vh;
+ background-image: url(/Image\ 1.jpg);
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+} */
 
 h1{
   text-align: center;
